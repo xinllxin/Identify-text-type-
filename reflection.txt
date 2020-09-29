@@ -1,0 +1,5 @@
+I used the news article "Huge backups on Mass. Pike in Brighton after deadly truck crash" from Boston Globe as the next text. I used the news article "F.B.I. Was Alerted to a Threat Minutes Before the Poway Synagogue Shooting" from New York Times and the first five sonnets from Shakespeare as my source1 and source2. 
+
+The result is that the Boston Globe articles is more likely come from New York Times than from Shakespeare, which is correct. 
+
+I think my program will work when differentiating very different styles of texts, such as news articles which are use simple vocabularies and have shorter sentences and paragraphs and Shakespeare's sonnets which are very different in both format and styles. My program still need a lot of improvement, such as better stem function and weighted sum scores to better differentiate texts. 
